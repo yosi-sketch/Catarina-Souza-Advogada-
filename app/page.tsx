@@ -551,7 +551,7 @@ export default function Home() {
               <motion.div variants={reveal} className="eyebrow mb-6">
                 <span className="size-2 shrink-0 rounded-full bg-brand-800" />
                 <span>
-                  Diamantina - MG · Centro · 5,0 ★ no Google (22 avaliações)
+                  Diamantina - MG · Centro · 5,0 ��� no Google (22 avaliações)
                 </span>
               </motion.div>
 
@@ -618,7 +618,7 @@ export default function Home() {
                 </span>
                 <span className="inline-flex items-center gap-2 font-medium">
                   <ShieldCheck size={16} className="text-brand-800" /> Bancário,
-                  Consignados, Consumidor & Cível
+                  Previdenciário, INSS & Cível
                 </span>
                 <span className="inline-flex items-center gap-2 font-medium">
                   <MapPin size={15} className="text-brand-800" /> Beco da Pena,
@@ -700,8 +700,8 @@ export default function Home() {
                 "nota máxima unânime com 22 avaliações no Google Maps",
               ],
               [
-                "Bancário & Cível",
-                "defesa contra abusos, superendividamento e fraudes",
+                "Previdenciário & INSS",
+                "aposentadorias, benefícios e defesa dos segurados",
               ],
               [
                 "Diamantina - MG",
@@ -822,9 +822,9 @@ export default function Home() {
                 <strong className="text-ink">
                   empréstimos consignados não contratados e superendividamento
                 </strong>
-                , seja em demandas cíveis, familiares e previdenciárias, cada
-                caso recebe escuta atenta, orientação transparente e estratégia
-                personalizada.
+                , seja na busca por aposentadoria, BPC/LOAS, auxílio por incapacidade,
+                pensão por morte ou revisão de benefício, cada caso recebe escuta
+                atenta, orientação transparente e estratégia personalizada.
               </motion.p>
 
               {/* Profile Highlight Card */}
