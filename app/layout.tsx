@@ -39,6 +39,9 @@ export const metadata: Metadata = {
     "Direito Cível Diamantina",
     "Direito de Família Diamantina",
     "Direito Previdenciário INSS Diamantina",
+    "Aposentadoria e BPC LOAS Diamantina",
+    "Auxílio por Incapacidade e Pensão por Morte",
+    "Revisão de Benefício do INSS",
     "Advogada Correspondente Diamantina MG",
   ],
   authors: [
